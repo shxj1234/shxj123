@@ -24,6 +24,8 @@
       "filterable": 1,
       "ext": "./sites/码上/豆瓣.js"
     },
+    {"key":"365","name": "㊗365┃资源","type":3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"
+    },
     {
       "key": "dr_码上看_哔哩影视",
       "name": "冉神看动漫",
